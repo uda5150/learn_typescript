@@ -26,5 +26,23 @@
     - クラス継承
     - https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Classes/extends
 
+- スプレッド構文(ES2018)
+  - スプレッド演算子：...
+  ```
+  const arr1 = [ 'A', 'B', 'C'];
+  const arr2 = [...arr1, 'D', 'E'];
+  ```
+  - https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+
+- プロパティ名のショートハンド
+  ```
+  const foo = 65536;
+  const obj = { foo, bar: 4096 };
+  ```
+
 ## TypeScriptの実行
 
+```
+tsc ファイル.ts
+node ファイル.js
+```
