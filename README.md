@@ -9,4 +9,22 @@
 
 - アロー関数
   - const 関数名 = (引数) => { return 返り値 }
+  - アロー関数式では、thisは関数それ自体になる
+
+- クラス
+  - constructor
+    - オブジェクト生成と初期化のためのメソッド
+    - https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Classes/constructor
+  - static
+    - クラスのインスタンスを作らずに呼び出せるメソッド
+      - rubyのselfみたいなもんか
+    - 
+  - super
+    - 親クラスのconstructor、関数を呼び出せる
+    - https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/super
+  - extends
+    - クラス継承
+    - https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Classes/extends
+
+## TypeScriptの実行
 
