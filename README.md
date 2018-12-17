@@ -39,6 +39,8 @@
   const foo = 65536;
   const obj = { foo, bar: 4096 };
   ```
+- 非同期処理(Promise構文)
+  - https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Promise
 
 ## TypeScriptの実行
 
