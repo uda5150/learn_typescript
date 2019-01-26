@@ -45,7 +45,11 @@
     - https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/await
 
 - カリー化
-  -  
+  - なにがうれしいのか？
+    - 複雑な処理をシンプルに書ける？  
+
+- 関数の部分適用
+  - カリー化された関数の一部の引数を固定した関数を作成すること
 
 ## TypeScriptの実行
 
