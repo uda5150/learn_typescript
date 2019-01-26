@@ -41,6 +41,11 @@
   ```
 - 非同期処理(Promise構文)
   - https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Promise
+  - async/await(ES2017)
+    - https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/await
+
+- カリー化
+  -  
 
 ## TypeScriptの実行
 
