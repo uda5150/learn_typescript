@@ -87,4 +87,4 @@ console.log("12 + 12 =", addDecimal(12, 12));
 console.log("21 + 19 =", addDecimal(21, 19));
 console.log("299 + 1 =", addDecimal(299, 1));
 console.log("7 + 7 =", addDecimal(7, 7));
-console.log("218 + 182 =", addDecimal(218, 182)); //11011010 10110110
+console.log("218 + 182 =", addDecimal(218, 182)); 
